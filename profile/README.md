@@ -1,6 +1,6 @@
 ## XR4Good - Realidade estendida e aumentada para o bem
 
-Repositório do laboratório XR4Good do Departamento de Computação (DECOM) da Universidade Federal de Ouro Preto (UFOP).
+Repositório do laboratório XR4Good do Departamento de Computação (DECOM) da Universidade Federal de Ouro Preto ([UFOP](https://ufop.br/)).
 
 ### Professores
 
@@ -9,7 +9,7 @@ Repositório do laboratório XR4Good do Departamento de Computação (DECOM) da 
 * Prof. [Dr. Rodrigo Ribeiro](http://lattes.cnpq.br/4921269815228128)
 * Prof. [Dr. Reinaldo Fortes](http://lattes.cnpq.br/1637967805937656)
 * Profa. [Dra. Aline Brito](http://lattes.cnpq.br/5513766633619869)
-* 
+
 ### Visão
 
 Ser reconhecido como um dos principais ambientes de pesquisa a nível nacional e internacional produzindo resultados científicos e inovadores de qualidade que agregam valor à sociedade
