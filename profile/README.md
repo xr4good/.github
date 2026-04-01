@@ -2,10 +2,17 @@
 
 Repositório do laboratório XR4Good do Departamento de Computação (DECOM) da Universidade Federal de Ouro Preto (UFOP).
 
+### Professores
+
+* Prof. [Dr. Saul Delabrida](http://lattes.cnpq.br/3196052576107598)
+* Profa. [Dra. Andrea Campos](http://lattes.cnpq.br/0251364589832974)
+* Prof. [Dr. Rodrigo Ribeiro](http://lattes.cnpq.br/4921269815228128)
+* Prof. [Dr. Reinaldo Fortes](http://lattes.cnpq.br/1637967805937656)
+* Profa. [Dra. Aline Brito](http://lattes.cnpq.br/5513766633619869)
+* 
 ### Visão
 
 Ser reconhecido como um dos principais ambientes de pesquisa a nível nacional e internacional produzindo resultados científicos e inovadores de qualidade que agregam valor à sociedade
-
 
 ### Valores
 
@@ -29,12 +36,6 @@ Ser reconhecido como um dos principais ambientes de pesquisa a nível nacional e
 
 * Apoiar o ensino de qualidade
 
-### Professores
 
-* Prof. [Dr. Saul Delabrida](http://lattes.cnpq.br/3196052576107598)
-* Profa. [Dra. Andrea Campos](http://lattes.cnpq.br/0251364589832974)
-* Prof. [Dr. Rodrigo Ribeiro](http://lattes.cnpq.br/4921269815228128)
-* Prof. [Dr. Reinaldo Fortes](http://lattes.cnpq.br/1637967805937656)
-* Profa. [Dra. Aline Brito](http://lattes.cnpq.br/5513766633619869)
 
 
